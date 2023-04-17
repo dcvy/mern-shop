@@ -17,16 +17,19 @@ cd server && npm install
 ```
 
 ### Running the app
-
+```
 cd server
+```
 
 ```
 npm run start:dev
 ```
 
 open new terminal 
+
 ```
 cd server
+```
 
 ```
 npm run start
