@@ -28,7 +28,7 @@ npm run start:dev
 open new terminal 
 
 ```
-cd server
+cd client
 ```
 
 ```
